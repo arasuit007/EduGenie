@@ -1,0 +1,8 @@
+{
+  "name": "EduGenie: Gemini Powered Learning Assistant",
+  "description": "AI tutor and learning assistant for school and college students featuring doubts solver, concept explainer, notes summarizer, quiz generator, flashcards, and study planner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
